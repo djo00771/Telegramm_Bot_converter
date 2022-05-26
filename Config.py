@@ -1,4 +1,4 @@
-TOKEN = '5173919618:AAFieQWimjaRyoGjyvFBMfYjbcbbOQmSqbU'
+TOKEN = 'ваш токен'
 keys = {
     'Юань': 'CNY',
     'Йена': 'JPY',
